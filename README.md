@@ -12,7 +12,7 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-TASK DESCRIPTION 
+TASK DESCRIPTION :
                Introduction
 In the early stages of any data science project, the most critical activity is preparing the data so it is clean, consistent, and suitable for analysis or modeling. This process, called data preprocessing, is the foundation upon which meaningful insights and predictive models are built. My primary task was to construct a modular, automated data pipeline using Python, Pandas, and Scikit-learn to handle these preprocessing operations in a manner that is not only systematic and error-resistant but also repeatable and scalable for real-world workflows.
 
